@@ -19,4 +19,11 @@ apt get update -y
 
 gem install lolcat
 
-git clone 
+git clone https://github.com/piratainformatico2/HerraShark
+cd HerraShark
+ls
+chmod +x *
+
+bash Tools1
+
+*GRACIAS POR OCUPAR MI HERRAMIENTA ☺️ ✓*
