@@ -65,7 +65,7 @@ printf "$C \n \t presiona en $G enter $C para continuar"
 echo
 read enter
 echo
-source $HOME/Tools1
+source $HOME/HerraShark/Tools1
 
 elif [ $SIGN -eq '2' ]; then
 
@@ -118,7 +118,7 @@ echo
 printf "$C \n \t Presiona en $G enter $C para continuar"
 echo
 read enter
-source $HOME/Tools1
+source $HOME/HerraShark/Tools1
 
 elif [ $SIGN -eq '3' ]; then
 clear
