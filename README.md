@@ -5,11 +5,11 @@ Funciona en:
 ========
 Termux ✓
 ========
-Kali Linux
+Kali Linux ✓
 ==========
-Parrot os
+Parrot os ✓
 ==========
-Ubuntu
+Ubuntu ✓
 ==========
 Instalación ✓
 ==========
