@@ -22,7 +22,9 @@ gem install lolcat
 git clone https://github.com/piratainformatico2/HerraShark
 
 cd HerraShark
+
 ls
+
 chmod +x *
 
 bash Tools1
